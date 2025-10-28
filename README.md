@@ -22,3 +22,15 @@ Teste vocacional gamificado desenvolvido como TCC para auxiliar estudantes na es
 - 188 testes realizados na FETEC
 - 67% de interesse em ingressar na ETEC
 - Feedback positivo sobre usabilidade e eficácia
+
+  ## 👥 Criadores
+
+**Desenvolvido por:**
+- Kauã Henrique Vieira Paulino
+- Lívia Cardia Suana  
+- Marina Fonseca de Oliveira
+- Matheus Martinez de Barros Costa
+
+**Orientador:** Ari Teixeira Neto
+
+**Instituição:** ETEC Darcy Pereira de Moraes - Itapetininga
